@@ -1,7 +1,7 @@
 # Simon Game
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 <br>
-The project is a the traditional Simon Game!
+The project is a the traditional Simon Game! <br>
 Without any fancy features, just enjoy the game :)
 
 ## Table of contents
@@ -13,16 +13,16 @@ Without any fancy features, just enjoy the game :)
 * [Acknowledgements](#acknowledgements)
 
 ## General info
-Like i said in the top of the README, it's just the old good simon game without any fancy features.
-The project is a part of my course in Udemy, really enjoyed to build it and i hope you will enjoy the game!
+Like i said in the top of the README, it's just the old good simon game without any fancy features. <br>
+The project is a part of my course in Udemy, really enjoyed to build it and i hope you will enjoy the game! <br>
 I will be glad to get some tips and advices to improve myself :)
 
 ## Technologies
 - Software language: JS, HTML, CSS
 
 ## Instructions for the game
-For those who don't know the game, it's a memory based game.
-before every level the game will present you the color you need to click, but
+For those who don't know the game, it's a memory based game.<br>
+before every level the game will present you the color you need to click, but <br>
 you need to remember and click the same colors from the previous levels and at the end click the current one.
 
 ### Example:
