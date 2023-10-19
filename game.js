@@ -1,12 +1,12 @@
-var buttonColours = ["red", "blue", "green", "yellow"];
-var gamePattern = [];
-var userClickedPattern = [];
-var randomChosenColour;
-var level = 0;
-var userNumnerClicks = 0;
+const buttonColours = ["red", "blue", "green", "yellow"];
+let gamePattern = [];
+let userClickedPattern = [];
+let randomChosenColour;
+let level = 0;
+let userNumnerClicks = 0;
 
 function playSound(name){
-    var sound = new Audio("./sounds/" + name + ".mp3");
+    const sound = new Audio("./public/assets/sounds/" + name + ".mp3");
     sound.play();
 }
 
@@ -18,8 +18,8 @@ function animatePress(currentColour){
 }
 
 function nextSequence(){
-    var randomNumber = Math.floor(Math.random() * 4);
-    var color = buttonColours[randomNumber];
+    const randomNumber = Math.floor(Math.random() * 4);
+    const color = buttonColours[randomNumber];
     $("#" + color).fadeOut(100).fadeIn(100).fadeOut(100).fadeIn(100);
     playSound(color);
     level ++;
@@ -28,9 +28,9 @@ function nextSequence(){
 }
 
 function checkAnswer(){
-    var userLost;
+    let userLost;
     if(userNumnerClicks === level){
-        for(var i = 0; i <= level; i++){
+        for(let i = 0; i <= level; i++){
             if(gamePattern[i] !== userClickedPattern[i]){
                 userLost = true;
                 break;
@@ -63,7 +63,7 @@ function startOver(){
 }
 
 $(".btn").on("click" ,function(event){
-    var userChosenColour = event.target.id;
+    let userChosenColour = event.target.id;
     animatePress(userChosenColour);
     playSound(userChosenColour);
     userClickedPattern.push(userChosenColour);
