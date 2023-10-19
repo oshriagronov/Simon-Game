@@ -33,13 +33,13 @@ Level 2 -> Red <br>
 Player should click -> Blue, Red
 
 ## Screenshots
-> Main screen
+
 ![main-screen](./public/assets/images/main-screen.jpg)
 
-> Level screen example
+
 ![starting-lv](./public/assets/images/starting-lv.jpg)
 
-> Game over screen
+
 ![gameover-screen](./public/assets/images/gameover-screen.jpg)
 
 ## Setup
