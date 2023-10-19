@@ -34,13 +34,13 @@ Player should click -> Blue, Red
 
 ## Screenshots
 > Main screen
-![main-screen](./public/assets/images/main%20screen.jpg)
+![main-screen](./public/assets/images/main-screen.jpg)
 
 > Level screen example
-![starting-lv](./public/assets/images/starting%20lv.jpg)
+![starting-lv](./public/assets/images/starting-lv.jpg)
 
 > Game over screen
-![gameover%20screen](./public/assets/images/gameover%20screen.jpg)
+![gameover-screen](./public/assets/images/gameover-screen.jpg)
 
 ## Setup
 All you need to run the game is just download the project files and run the "index.html" file!
