@@ -26,10 +26,10 @@ before every level the game will present you the color you need to click, but
 you need to remember and click the same colors from the previous levels and at the end click the current one.
 
 ### Example:
-Level 1 -> Blue
+Level 1 -> Blue <br>
 Player should click -> Blue
 
-Level 2 -> Red
+Level 2 -> Red <br>
 Player should click -> Blue, Red
 
 ## Screenshots
@@ -37,10 +37,10 @@ Player should click -> Blue, Red
 ![main-screen](./public/assets/images/main%20screen.jpg)
 
 > Level screen example
-![Work-list-image](./public/assets/images/starting%20lv.jpg)
+![starting-lv](./public/assets/images/starting%20lv.jpg)
 
 > Game over screen
-![Custom-list-image](./public/assets/images/gameover%20screen.jpg)
+![gameover%20screen](./public/assets/images/gameover%20screen.jpg)
 
 ## Setup
 All you need to run the game is just download the project files and run the "index.html" file!
