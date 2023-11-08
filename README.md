@@ -1,7 +1,7 @@
 # Simon Game
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 <br>
-The project is a the traditional Simon Game! <br>
+The project is a traditional Simon Game! <br>
 Without any fancy features, just enjoy the game :)
 
 ## Table of contents
@@ -13,9 +13,9 @@ Without any fancy features, just enjoy the game :)
 * [Acknowledgements](#acknowledgements)
 
 ## General info
-Like i said in the top of the README, it's just the old good simon game without any fancy features. <br>
-The project is a part of my course in Udemy, really enjoyed to build it and i hope you will enjoy the game! <br>
-I will be glad to get some tips and advices to improve myself :)
+Like I said in the top of the README, it's just the old good simon game without any fancy features. <br>
+The project is a part of my course in Udemy, I really enjoyed building it and I hope you will enjoy the game! <br>
+I will be glad to get some tips and advice to improve myself :)
 
 ## Technologies
 - Software language: JS, HTML, CSS
@@ -47,5 +47,5 @@ All you need to run the game is just download the project files and run the "ind
 enjoy :)
 
 ## Acknowledgements
-I would want to thank to Dr. Angela Yu for creating the great course "The Complete 2023 Web Development Bootcamp"
+I would like to thank to Dr. Angela Yu for creating the great course "The Complete 2023 Web Development Bootcamp"
 > Link to the course [here](https://www.udemy.com/course/the-complete-web-development-bootcamp/?kw=The+Complete+2023+Web+Development+Bootcamp&src=sac)
