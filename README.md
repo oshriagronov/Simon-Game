@@ -1,50 +1,33 @@
-# Simon Game
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-<br>
-The project is a traditional Simon Game! <br>
-Without any fancy features, just enjoy the game :)
+<br />
+<div align="center">
+  <a href="https://github.com/oshriagronov/simon-game">
+    <img src="public/assets/app_icon.png" alt="Logo" width="200" height="200">
+  </a>
 
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Instructions for the game](#Instructions-for-the-game)
-* [Screenshots](#screenshots)
-* [Setup](#setup)
-* [Acknowledgements](#acknowledgements)
+<h3 align="center">Simon Game</h3>
+  <p align="center">
+    Simple traditional Simon Game.
+  </p>
+</div>
 
-## General info
-Like I said in the top of the README, it's just the old good simon game without any fancy features. <br>
-The project is a part of my course in Udemy, I really enjoyed building it and I hope you will enjoy the game! <br>
-I will be glad to get some tips and advice to improve myself :)
+## About
+The project is a part of my course in Udemy, I really enjoyed building it and I hope you will enjoy the game.
 
-## Technologies
-- Software language: JS, HTML, CSS
-
-## Instructions for the game
+### Instructions
 For those who don't know the game, it's a memory based game.<br>
 before every level the game will present you the color you need to click, but <br>
 you need to remember and click the same colors from the previous levels and at the end click the current one.
 
-### Example:
-Level 1 -> Blue <br>
-Player should click -> Blue
+## Technologies used
+- js, html & css
 
-Level 2 -> Red <br>
-Player should click -> Blue, Red
+## Media
+<img src="./public/assets/images/main-screen.jpg" alt="main screen" width="600" height="600">
+<img src="./public/assets/images/starting-lv.jpg" alt="starting level" width="600" height="600">
+<img src="./public/assets/images/gameover-screen.jpg" alt="gameover screen" width="600" height="600">
 
-## Screenshots
-
-![main-screen](./public/assets/images/main-screen.jpg)
-
-
-![starting-lv](./public/assets/images/starting-lv.jpg)
-
-
-![gameover-screen](./public/assets/images/gameover-screen.jpg)
-
-## Setup
-All you need to run the game is just download the project files and run the "index.html" file!
-enjoy :)
+## Getting Started
+just download the project files and open the index.html .
 
 ## Acknowledgements
 I would like to thank to Dr. Angela Yu for creating the great course "The Complete 2023 Web Development Bootcamp"
