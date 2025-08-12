@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/oshriagronov/simon-game">
-    <img src="public/assets/app_icon.png" alt="Logo" width="200" height="200">
+    <img src="public/assets/images/.app_icon.png" alt="Logo" width="200" height="200">
   </a>
 
 <h3 align="center">Simon Game</h3>
@@ -27,7 +27,7 @@ you need to remember and click the same colors from the previous levels and at t
 <img src="./public/assets/images/gameover-screen.jpg" alt="gameover screen" width="600" height="600">
 
 ## Getting Started
-just download the project files and open the index.html .
+Just download the project files and open the index.html
 
 ## Acknowledgements
 I would like to thank to Dr. Angela Yu for creating the great course "The Complete 2023 Web Development Bootcamp"
