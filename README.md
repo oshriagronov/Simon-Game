@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/oshriagronov/simon-game">
-    <img src="public/assets/images/.app_icon.png" alt="Logo" width="200" height="200">
+    <img src="./public/assets/images/logo.png" alt="Logo" width="200" height="200">
   </a>
 
 <h3 align="center">Simon Game</h3>
@@ -14,9 +14,8 @@
 The project is a part of my course in Udemy, I really enjoyed building it and I hope you will enjoy the game.
 
 ### Instructions
-For those who don't know the game, it's a memory based game.<br>
-before every level the game will present you the color you need to click, but <br>
-you need to remember and click the same colors from the previous levels and at the end click the current one.
+The game is memory-based.
+Before each level, you’ll see a color to click. You must remember and click all colors from previous levels in order, then click the new one.
 
 ## Technologies used
 - js, html & css
